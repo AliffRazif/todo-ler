@@ -24,7 +24,7 @@ Todo-ler
 
 ## Notes For the Future
 
-* Create a personalized homepage for the user where they will be welcome and a message will display based on their name. 
+* Create a personalized homepage for the user where they will be welcomed and a message will display based on their name. 
 * Make buttons better looking. 
 
 
